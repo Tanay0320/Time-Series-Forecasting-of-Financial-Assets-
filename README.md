@@ -1,1 +1,1 @@
-# Time-Series-Forecasting-of-Financial-Assets-
+# Stock_prediction_using_LSTM
